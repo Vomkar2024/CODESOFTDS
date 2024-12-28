@@ -1,7 +1,8 @@
 # Omkar Data Science Internship
 ## Task 1
 DataSet
-<a href="https://github.com/Vomkar2024/CODESOFTDS/blob/main/DATA/Titanic-Dataset.csv">Titanic.csv
+<a href="https://github.com/Vomkar2024/CODESOFTDS/blob/main/DATA/Titanic-Dataset.csv">Titanic.csv <a>
+
 ## Project Objective
 - The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 
